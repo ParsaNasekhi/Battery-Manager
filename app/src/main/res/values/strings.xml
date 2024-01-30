@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Battery Manager</string>
+    <string name="help_text" />
+    <string name="info_txt">Check your battery state:</string>
+    <string name="voltage">voltage</string>
+    <string name="technology">technology</string>
+    <string name="plug_state">plug state</string>
+    <string name="temperature">temperature</string>
+    <string name="apps_usage">Apps Usage</string>
+    <string name="charge_alarm">Charge Alarm (OFF)</string>
+</resources>

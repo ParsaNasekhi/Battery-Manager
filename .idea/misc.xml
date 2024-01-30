@@ -1,0 +1,17 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BatteryManager/app/src/main/res/drawable/healph_bg.xml" value="0.1615" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BatteryManager/app/src/main/res/drawable/health_bg.xml" value="0.1615" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BatteryManager/app/src/main/res/drawable/info_bg.xml" value="0.1615" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BatteryManager/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BatteryManager/app/src/main/res/layout/activity_splash.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BatteryManager/app/src/main/res/layout/activity_usage_battery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BatteryManager/app/src/main/res/layout/drawer_layout.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/BatteryManager/app/src/main/res/layout/item_battery_usage.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK" />
+</project>
